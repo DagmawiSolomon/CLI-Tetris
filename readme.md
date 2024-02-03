@@ -1,5 +1,6 @@
 # CLI Tetris
-![Menu](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true)
+<img> <
+<img src="https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true" alt="Menu" width="300"/>
 ![Game](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/game.png?raw=true)
 ![Game Over](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/gameover.png?raw=true)
 ## Overview
