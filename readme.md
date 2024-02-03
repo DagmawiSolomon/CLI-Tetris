@@ -1,8 +1,10 @@
 # CLI Tetris
-
+![Menu](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true)
+![Game](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/game.png?raw=true)
+![Game Over](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/gameover.png?raw=true)
 ## Overview
 
-This is a CLI Tetris game implementation created for a C++ class project. The game follows the classic rules of Tetris, where players maneuver falling tetrominoes to create complete horizontal lines, which then disappear. The goal is to prevent the stack of tetrominoes from reaching the top of the playing field for as long as possible.
+This is a CLI Tetris game implementation made using C++. The game follows the classic rules of Tetris, where players maneuver falling tetrominoes to create complete horizontal lines, which then disappear. The goal is to prevent the stack of tetrominoes from reaching the top of the playing field for as long as possible.
 
 ## Features 
 - Classic Tetris gameplay mechanics.
@@ -36,11 +38,3 @@ g++ gameLogic.cpp main.cpp menu.cpp board.cpp -o main
 7. The game ends when the stack of tetrominoes reaches the top of the playing field.
 8. Press `R` or `r` to restart the game.
 
-## Credits
-
-### Team members
-1. Adonay Ayal
-2. Dagmawi Solomon
-3. Sofoniyas Shitaye
-4. Tomas Solomon
-5. Yaphet Gebreyesus
