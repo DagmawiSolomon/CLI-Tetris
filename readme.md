@@ -1,8 +1,8 @@
 # CLI Tetris
 
 <img src="https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true" alt="Menu" width="400"/>
-<img src="[https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/game.png)" alt="Game" width="400"/>
-<img src="[https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/gameover.png?raw=true)" alt="Game Over" width="400"/>
+<img src="[https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/game.png" alt="Game" width="400"/>
+<img src="[https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/gameover.png)" alt="Game Over" width="400"/>
 
 ## Overview
 
