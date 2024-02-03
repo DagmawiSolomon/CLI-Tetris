@@ -1,8 +1,9 @@
 # CLI Tetris
-<img> <
-<img src="https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true" alt="Menu" width="300"/>
-![Game](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/game.png?raw=true)
-![Game Over](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/gameover.png?raw=true)
+
+<img src="https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true" alt="Menu" width="400"/>
+<img src="[https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/game.png)" alt="Game" width="400"/>
+<img src="[https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/menu.png?raw=true](https://github.com/DagmawiSolomon/CLI-Tetris/blob/main/gameover.png?raw=true)" alt="Game Over" width="400"/>
+
 ## Overview
 
 This is a CLI Tetris game implementation made using C++. The game follows the classic rules of Tetris, where players maneuver falling tetrominoes to create complete horizontal lines, which then disappear. The goal is to prevent the stack of tetrominoes from reaching the top of the playing field for as long as possible.
