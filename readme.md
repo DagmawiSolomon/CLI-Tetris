@@ -6,7 +6,7 @@
 
 ## Overview
 
-This is a CLI Tetris game implementation made using C++. The game follows the classic rules of Tetris, where players maneuver falling tetrominoes to create complete horizontal lines, which then disappear. The goal is to prevent the stack of tetrominoes from reaching the top of the playing field for as long as possible.
+This is a CLI Tetris game implementation made using C++. The game follows the classic rules of Tetris, where players maneuver falling tetrominoes to create complete horizontal lines, which then disappear. The goal is to prevent the stack of tetrominoes from reaching the top of the playing field for as long as possible
 
 ## Features 
 - Classic Tetris gameplay mechanics.
